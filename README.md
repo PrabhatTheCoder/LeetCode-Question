@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
 ## String
@@ -31,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
