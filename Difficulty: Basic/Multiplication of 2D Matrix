@@ -1,0 +1,31 @@
+# 123
+# 456   
+
+# 10  11
+# 20  21
+# 30  31
+
+
+
+
+matrixA = [[1,2,3],[4,5,6]]
+matrixB = [[10,11],[20,21],[30,31]]
+# O/P = [[50, 53], [140, 149]]
+
+# m*n p*q
+
+rows = len(matrixA)
+cols = len(matrixB[0])
+res = [[0 for _ in range(cols)] for _ in range(rows)]
+
+n=len(matrixA)
+p=len(matrixB[0])
+if n==p:
+    for i in range(len(res)):  # row
+        for j in range(len(res)):
+            res[i][j] = 0
+            for k in range(p):
+                res[i][j] += matrixA[i][k]*matrixB[k][j]
+                
+print(res)
+    
