@@ -1,0 +1,16 @@
+# Write a program to print the matrix in wave form.
+
+# 123
+# 456
+# 789
+
+# 123654789
+
+matrix = [[1,2,3],[4,5,6],[7,8,9]]
+for i in range(len(matrix)):  # row
+    if i%2 != 0:    # odd
+        for j in range(len(matrix[0])-1,-1,-1):
+            print(matrix[i][j])
+    else:
+        for j in range(len(matrix[0])):
+            print(matrix[i][j])
