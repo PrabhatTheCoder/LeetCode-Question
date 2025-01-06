@@ -1,5 +1,10 @@
-class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
+class Solution(object):
+    def generate(self, numRows):
+        """
+        :type numRows: int
+        :rtype: List[List[int]]
+        """
+
         res = []
         
 
@@ -16,4 +21,5 @@ class Solution:
         return res
 
 
+        
         
