@@ -1,10 +1,5 @@
-class Solution(object):
-    def matrixScore(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
-
+class Solution:
+    def matrixScore(self, grid: List[List[int]]) -> int:
         # making 1st column all 1's
         for i in range(len(grid)):
             if grid[i][0] == 0:
@@ -42,4 +37,5 @@ class Solution(object):
                 x *= 2
         return score
 
+        
         
