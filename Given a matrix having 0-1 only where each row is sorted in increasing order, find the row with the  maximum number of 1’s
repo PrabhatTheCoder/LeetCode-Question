@@ -1,0 +1,74 @@
+'''  Given a matrix having 0-1 only where each row is sorted in increasing order, find the row with the 
+maximum number of 1’s
+
+ Input matrix : 0 1 1 1
+ 0 0 1 1
+ 1 1 1 1  // this row has maximum 1s
+ 0 0 0 0
+ Output: 2
+ 
+'''
+
+
+
+
+
+
+
+class CountingValMatrix:
+    
+    def CountMaxKelementInRow(self,matrix, target):
+        
+        maxVal = -1
+        idx = -1
+        
+        for i in range(len(matrix)):
+            low = 0
+            high = len(matrix[0])-1
+            result1 = -1
+            result2 = -1
+            
+            
+            # left side
+            while low<=high:
+                mid = low + (high-low)//2
+                
+                if matrix[i][mid] == target:
+                    result1 = mid
+                    high = mid - 1
+                elif matrix[i][mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+            
+            # right side
+            low = result1
+            high = len(matrix[0])-1
+            while low<=high:
+                mid = low + (high-low)//2
+                
+                if matrix[i][mid] == target:
+                    result2 = mid
+                    low = mid + 1
+                elif matrix[i][mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+            
+            if result1 != -1 and result2 != -1:
+                NewVal = result2-result1+1
+                if NewVal > maxVal:
+                    maxVal = NewVal
+                    idx = i
+        
+        return idx
+            
+     
+matrix = [[0,1,1,1],[0,0,1,1],[0,0,0,0],[1,1,1,1]]
+target = 1
+sol = CountingValMatrix()
+ans = sol.CountMaxKelementInRow(matrix,target)
+print(ans)
+
+           
