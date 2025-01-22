@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
