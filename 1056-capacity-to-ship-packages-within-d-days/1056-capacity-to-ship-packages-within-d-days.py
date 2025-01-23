@@ -20,6 +20,7 @@ class Solution:
         return minCapacityToShipPackage
 
     def CheckCapacity(self, mid, weights, days):
+        # weights = [3,2,2,4,1,4], days = 3, mid = 
         m = mid 
         count = 1
         for i in range(len(weights)):
