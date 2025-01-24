@@ -1,0 +1,11 @@
+'''write a program to print palindrom using recursion '''
+
+def palindrom(a: int, n: int) -> None:
+    if a > n:  # Base case: stop when a exceeds n
+        return
+    print(a, end=" ")
+    palindrom(a+1, n)
+    print(a, end=" ")
+    return
+
+palindrom(1, 5)
