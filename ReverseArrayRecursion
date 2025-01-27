@@ -1,0 +1,20 @@
+#  Print all the elements of an array in reverse order
+
+def reverseArray(n, arr):
+    if n == len(arr):
+        return
+    reverseArray(n+1,arr)
+    print(arr[n],end=" ")
+    
+def reverseArray2(arr, n):
+    if n < 0:  # Base condition: Stop when n becomes less than 0
+        return
+    print(arr[n], end=" ")  # Print the current element
+    reverseArray(arr, n - 1)  # Recursive call with the next index (decremented)
+    
+arr = [5,6,8,7,9,5,2]
+n = 0
+reverseArray(0,arr)
+reverseArray2(0,arr)
+    
+        
