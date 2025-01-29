@@ -17,7 +17,7 @@ class Solution:
     def reverse(self,St): 
         #code here
         
-        if len(St) == 1:
+        if len(St) == 0:
             return
 
         temp = St.pop()  # Remove last element
