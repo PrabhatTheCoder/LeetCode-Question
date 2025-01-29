@@ -37,7 +37,6 @@ class GFG {
 
 
 // User function Template for Java
-
 class Solution {
     // Helper function to delete the middle element
     private void deleteEle(Stack<Integer> s, int mid) {
@@ -64,4 +63,3 @@ class Solution {
     }
 
 }
-
