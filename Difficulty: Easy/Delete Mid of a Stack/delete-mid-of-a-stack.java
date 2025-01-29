@@ -34,31 +34,34 @@ class GFG {
 // } Driver Code Ends
 
 
+
+
 // User function Template for Java
 
-
-
 class Solution {
-    
-    
-    private void deleteEle(Stack<Integer> s, int mid, int count) {
-        if (count == mid) { // Base case: remove middle element
+    // Helper function to delete the middle element
+    private void deleteEle(Stack<Integer> s, int mid) {
+        if (mid == 0) { // Base case: when mid index is reached
             s.pop();
             return;
         }
 
+        if (s.size() == 1) { // Base case: if only one element remains, do nothing
+            return;
+        }
+
         int temp = s.pop(); // Remove top element
-        deleteEle(s, mid, count + 1); // Recursive call
+        deleteEle(s, mid-1); // Recursive call
         s.push(temp); // Restore elements after deletion
     }
-    
-    
-    // Function to delete middle element of a stack.
+
+    // Function to delete the middle element of a stack.
     public void deleteMid(Stack<Integer> s) {
-        // code here
         if (s.isEmpty()) return;
 
-        int mid = (s.size() / 2) + 1; 
-        deleteEle(s, mid-1, 0);
+        int mid = (s.size() / 2); // 1-based mid index
+        deleteEle(s, mid); // Start recursion
     }
+
 }
+
