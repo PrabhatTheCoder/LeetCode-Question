@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2294-minimum-time-to-complete-trips](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2294-minimum-time-to-complete-trips) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
