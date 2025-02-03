@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0242-valid-anagram) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0119-pascals-triangle-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
