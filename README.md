@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
