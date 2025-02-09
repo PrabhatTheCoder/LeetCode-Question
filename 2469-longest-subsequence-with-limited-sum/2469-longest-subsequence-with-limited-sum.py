@@ -10,8 +10,22 @@ class Solution:
         
         answer = [0]*len(queries)
         for i in range(len(queries)):
-            for j in range(len(nums_prefix_sum)):
-                if nums_prefix_sum[j] <= queries[i]:
-                    answer[i] = j+1 
+            val = self.BinarySearch(nums_prefix_sum, queries[i]) 
+            if val == -1:
+                answer[i] = 0
+            else:
+               answer[i] = val + 1
         return answer
         
+    def BinarySearch(self, nums, target):
+        low = 0
+        high = len(nums)-1
+        maxVal = -1
+        while low <= high:
+            mid = low + (high-low)//2
+            if nums[mid] <= target:
+                maxVal = mid
+                low = mid + 1
+            else:
+                high = mid - 1
+        return maxVal
