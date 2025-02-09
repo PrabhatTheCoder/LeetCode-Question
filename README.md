@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2294-minimum-time-to-complete-trips) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Queue
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2294-minimum-time-to-complete-trips](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2294-minimum-time-to-complete-trips) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
