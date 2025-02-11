@@ -1,20 +1,24 @@
-class Solution:
-    def pivotIndex(self, nums: List[int]) -> int:
-        n = len(nums)
+class Solution(object):
+    def pivotIndex(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
 
-        prefixSum = [0]*n
-        prefixSum[0] = nums[0]
-        for i in range(1,n):
-            prefixSum[i] = prefixSum[i-1] + nums[i]
-        
-        suffixSum = [0]*n
-        suffixSum[n-1] = nums[n-1]
-        for i in range(n-2,-1,-1):
-            suffixSum[i] = suffixSum[i+1] + nums[i]
-        
-        for i in range(n):
-            if suffixSum[i] ==  prefixSum[i]:
-                return i
-        return -1
+        left_sum = 0
+        sum = 0
+        right_sum = 0
+
+        for i in range(len(nums)):
+            sum += nums[i]   
+
+        for j in range(len(nums)):
             
-        
+            right_sum = sum - left_sum - nums[j]
+
+            if left_sum == right_sum:
+                return j
+
+            left_sum += nums[j]
+
+        return -1
