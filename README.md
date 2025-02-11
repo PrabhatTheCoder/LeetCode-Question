@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0724-find-pivot-index) |
+| [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
