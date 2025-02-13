@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
