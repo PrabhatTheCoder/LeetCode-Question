@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
@@ -186,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
