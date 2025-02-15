@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Sorting
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2294-minimum-time-to-complete-trips](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2294-minimum-time-to-complete-trips) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2211-k-radius-subarray-averages) |
 ## Heap (Priority Queue)
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0724-find-pivot-index) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
