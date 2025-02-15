@@ -6,16 +6,12 @@ class Solution:
         zerosCount = 0
         i = 0
         j = 0
-        
+        last_zero_idx = -1
         while j < len(nums):
             if nums[j] == 0:
-                zerosCount += 1
-            
-            while zerosCount > 1:
-                if nums[i] == 0:
-                    zerosCount -= 1
-                i += 1
-            
+                i = last_zero_idx + 1
+                last_zero_idx = j
+
             maxVal = max(maxVal, j - i)
             j += 1
 
