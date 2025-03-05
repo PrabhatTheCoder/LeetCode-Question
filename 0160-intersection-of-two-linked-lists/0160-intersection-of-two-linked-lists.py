@@ -35,6 +35,8 @@ class Solution:
                 return headA  
             headA = headA.next
             headB = headB.next
+
+        return None  
   
 
         
