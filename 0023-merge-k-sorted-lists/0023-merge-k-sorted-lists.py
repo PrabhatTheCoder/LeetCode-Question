@@ -10,8 +10,8 @@ class Solution:
 
         # print(lists[-1])
         while len(lists) > 1:
-            a = lists.pop()
-            b = lists.pop()
+            a = lists.pop(0)
+            b = lists.pop(0)
             c = self.mergeTwoLists(a,b)
             lists.append(c)
 
