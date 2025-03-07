@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2211-k-radius-subarray-averages](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2211-k-radius-subarray-averages) |
 | [2294-minimum-time-to-complete-trips](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2294-minimum-time-to-complete-trips) |
+| [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
+| [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
