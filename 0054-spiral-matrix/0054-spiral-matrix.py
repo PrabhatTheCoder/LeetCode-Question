@@ -1,32 +1,36 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        minr = 0
-        maxr = len(matrix) - 1
-        minc = 0
-        maxc = len(matrix[0]) - 1
-        res = []
+        if not matrix or not matrix[0]:
+            return []
+
+        minr, maxr = 0, len(matrix) - 1
+        minc, maxc = 0, len(matrix[0]) - 1
+        ans = []
 
         while minr <= maxr and minc <= maxc:
-            # Traverse right
+
+            # Move Right
             for i in range(minc, maxc + 1):
-                res.append(matrix[minr][i])
-            minr += 1
-            
-            # Traverse down
-            for i in range(minr, maxr + 1):
-                res.append(matrix[i][maxc])
-            maxc -= 1
-            
+                ans.append(matrix[minr][i])
+            minr += 1  # Move row boundary down
+
+            # Move Down
+            for j in range(minr, maxr + 1):
+                ans.append(matrix[j][maxc])
+            maxc -= 1  # Move column boundary left
+
+            # Move Left
             if minr <= maxr:
-                # Traverse left
-                for i in range(maxc, minc - 1, -1):
-                    res.append(matrix[maxr][i])
-                maxr -= 1
+                for k in range(maxc, minc - 1, -1):
+                    ans.append(matrix[maxr][k])
+                maxr -= 1  # Move row boundary up
 
+            # Move Up
             if minc <= maxc:
-                # Traverse up
-                for i in range(maxr, minr - 1, -1):
-                    res.append(matrix[i][minc])
-                minc += 1
+                for l in range(maxr, minr - 1, -1):
+                    ans.append(matrix[l][minc])
+                minc += 1  # Move column boundary right
 
-        return res
+        return ans
+
+        
