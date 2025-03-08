@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
