@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
