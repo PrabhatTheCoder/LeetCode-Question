@@ -19,27 +19,24 @@ class Solution:
         
         temp = head
         ans = []
-        while temp:
-            dummy = ListNode(-1)
+        for _ in range(k):
+            dummy = ListNode(-1)  # Dummy head
             tempC = dummy
-            if rem > 0:
-                for i in range(size+1):
+            
+            # Set the correct partition size
+            part_size = size + (1 if rem > 0 else 0)
+            rem -= 1  # Decrease remaining extra nodes
+            
+            for _ in range(part_size):
+                if temp:
                     tempC.next = temp
+                    tempC = temp
                     temp = temp.next
-                    tempC = tempC.next
+            
+            # Break the link to the next part
+            if tempC:
                 tempC.next = None
-                rem -= 1
-            else:
-                for i in range(size):
-                    tempC.next = temp
-                    temp = temp.next
-                    tempC = tempC.next
-                tempC.next = None
+            
             ans.append(dummy.next)
-
-        print(len(ans))
-        while len(ans) < k:
-            ans.append(None)
-        return ans
-
         
+        return ans
