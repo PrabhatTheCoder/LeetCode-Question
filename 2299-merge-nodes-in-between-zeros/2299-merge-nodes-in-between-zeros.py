@@ -5,18 +5,19 @@
 #         self.next = next
 class Solution:
     def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        newHead = ListNode(-1)
-        prev = newHead
-        curr = head
-        val = 0
-        while curr:
-            if curr.val == 0:
-                prev.next = ListNode(val)
-                val = 0
-                prev = prev.next
-            else:
-                val += curr.val
-            curr = curr.next
+        # T:C - O(n) and S:C - O(1)
+        # Based on Recursion leap of faith
 
-        return newHead.next.next
-        
+        if not head or not head.next:
+            return None
+
+        head = head.next
+        temp = head
+        sum = 0
+        while temp and temp.val != 0:
+            sum += temp.val
+            temp = temp.next
+
+        head.val = sum
+        head.next = self.mergeNodes(temp)
+        return head
