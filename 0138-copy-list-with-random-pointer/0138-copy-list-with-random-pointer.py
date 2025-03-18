@@ -9,29 +9,39 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        # Time - O(1) and Space - O(n)
-        curr = head
-        newHead = Node(-1)
-        prev = newHead
-        dic = {}
+        # Time - O(1) and Space - O(1)
 
+        if head == None:
+            return None
+            
+        # 1 - Inserting Node in the Middle of LL
+        curr = head
+        temp = None
         while curr:
             temp = Node(curr.val)
-            dic[curr] = temp
+            temp.next = curr.next
+            curr.next = temp
+            curr = curr.next.next
 
-            prev.next = temp
-
-            prev = prev.next
-            curr = curr.next
-
-        # Second pass: Set random pointers
-        temp = newHead.next
+        # Inserting Random Pointer
         curr = head
-        while temp:
-            if curr.random:
-                temp.random = dic[curr.random]
-            temp = temp.next
-            curr = curr.next
+        while curr and curr.next:
+            if curr.random == None:
+                curr.next.random = None
+            else:
+                curr.next.random = curr.random.next
+            curr = curr.next.next
 
-        return newHead.next
+        # Removing answer LL
+        curr = head
+        newHead = head.next
+        newCurr = newHead
+        while curr:
+            curr.next = curr.next.next if curr.next else None
+            newCurr.next = newCurr.next.next if newCurr.next else None
+
+            curr = curr.next
+            newCurr = newCurr.next
+
+        return newHead
                      
