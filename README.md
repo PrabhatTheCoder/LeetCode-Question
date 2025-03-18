@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
 ## Merge Sort
 |  |
