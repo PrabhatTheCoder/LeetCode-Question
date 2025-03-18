@@ -9,6 +9,7 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        # Time - O(1) and Space - O(n)
         curr = head
         newHead = Node(-1)
         prev = newHead
