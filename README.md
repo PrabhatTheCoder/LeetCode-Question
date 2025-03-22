@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
