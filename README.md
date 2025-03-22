@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1765-merge-in-between-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
+| [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
