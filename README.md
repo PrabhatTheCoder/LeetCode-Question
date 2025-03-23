@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
