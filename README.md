@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
