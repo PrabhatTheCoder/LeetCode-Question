@@ -1,26 +1,39 @@
 class Solution:
-    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
 
-        queue = []
-        i = 0
-        j = 0
+    def NextGreaterIndex(self, nums):
         ans = []
-        while j < len(nums):
-
-            # Calculations
-            while len(queue) > 0 and nums[j] > queue[-1] :
-                queue.pop()
-            queue.append(nums[j])
-            # Check window size
-            if j-i+1 == k:
-                ans.append(queue[0])
-
-                # Slide the window
-                if queue[0] == nums[i]:
-                    queue.pop(0)
-                i += 1
-            j += 1
-
+        stack = []
+        n = len(nums)
+        for i in range(n - 1, -1, -1):
+            while stack and nums[stack[-1]] <= nums[i]:  # Corrected comparison
+                stack.pop()
+            if not stack:
+                ans.append(n)
+            else:
+                ans.append(stack[-1])
+            stack.append(i)
+        ans.reverse()
         return ans
 
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+
+        nxtIdx = self.NextGreaterIndex(nums)
+        ans = []
+        i = 0
+        n = len(nums)
+        j = 0
+        for i in range(n-k+1):
+            if j < i:
+                j = i
+
+            mx = nums[j]
+
+            while j < i + k:
+                mx = nums[j]
+                if nxtIdx[j] >= i+k:
+                    break
+                j = nxtIdx[j]
+            ans.append(mx)
+
+        return ans
         
