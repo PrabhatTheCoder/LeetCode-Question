@@ -5,7 +5,8 @@ class Solution:
     def reverseQueue(self, q):
         stack=[]
         while not q.empty():
-            stack.append(q.get())
+            val = q.get()
+            stack.append(val)
         while stack:
             q.put(stack.pop())
         return q
