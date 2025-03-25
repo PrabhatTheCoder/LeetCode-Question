@@ -1,7 +1,7 @@
 class MinStack:
 
-    # Time Complexity - O(1)
-    # Space Complexity - O(1)
+    # Time Complexity: O(1) for all operations.
+    # Space Complexity: O(n) because the stack can store up to n elements but we are not using extra stack to store min_element.
 
     def __init__(self):
         self.min_ele = None
