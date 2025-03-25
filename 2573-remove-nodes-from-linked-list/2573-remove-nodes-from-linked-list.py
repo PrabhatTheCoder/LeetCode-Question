@@ -6,6 +6,10 @@
 class Solution:
 
     def ReverseLinkedList(self,head):
+
+        # Time Complexity: \U0001d442(\U0001d45b)
+        # Space Complexity: \U0001d442(1)
+
         prev = None
         temp = head
         while temp:
