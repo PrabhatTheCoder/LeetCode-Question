@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 ## Monotonic Queue
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
