@@ -1,35 +1,27 @@
 #User function Template for python3
 
 class Solution:
-    def FirstNegativeInteger(self, arr, k): 
-        ans = []
-        deque = []
+    def firstNegInt(self, arr, k): 
+         # code here 
         i = 0
         j = 0
-        
+        res = []
+        queue = []
         while j < len(arr):
-            # Collect negative numbers in the window
+            
             if arr[j] < 0:
-                deque.append(arr[j])
-            
-            # Check if the window size is reached
-            if (j - i + 1) == k:
-                # Add the first negative number of the window to the answer
-                if deque:
-                    ans.append(deque[0])
-                else:
-                    ans.append(0)  # No negative number in this window
+                queue.append(arr[j])
                 
-                # Slide the window
-                if arr[i] < 0:
-                    deque.pop(0)
+            while j-i+1 == k:
+                if queue and queue[0] == arr[i]:
+                    res.append(queue.pop(0))
+                elif queue and queue[0] != arr[i]:
+                    res.append(queue[0])
+                else:
+                    res.append(0)
                 i += 1
-            
             j += 1
-        
-        return ans
-
-
+        return res
 
 
 
@@ -47,7 +39,7 @@ if __name__ == '__main__':
             continue
 
         ob = Solution()
-        ans = ob.FirstNegativeInteger(arr, k)
+        ans = ob.firstNegInt(arr, k)
 
         print(" ".join(map(str, ans)))
         tc -= 1
