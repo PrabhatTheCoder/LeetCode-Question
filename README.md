@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2211-k-radius-subarray-averages](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2211-k-radius-subarray-averages) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2411-spiral-matrix-iv) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2573-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
