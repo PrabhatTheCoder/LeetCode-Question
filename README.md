@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
