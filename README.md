@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
 ## Number Theory
 |  |
