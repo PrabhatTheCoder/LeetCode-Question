@@ -4,50 +4,36 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution(object):
 
-    def levelOrder(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: List[List[int]]
-        """
+    def level(self, root):
         if not root:
-            return []
+            return 0
+        return 1 + max(self.level(root.left), self.level(root.right))
 
-        queue = [root]
-        result = []
-        while queue:
-            level_size = len(queue)
-            ans = []
-
-            for _ in range(level_size):
-                node = queue.pop(0)  # pop from front (acts as a queue)
-                ans.append(node.val)
-
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-
-            result.append(ans)
-
-        return result
-
-
+    def solve(self, root, level, target_level, ans):
+        if not root:
+            return
+        if level == target_level:
+            ans.append(root.val)
+            return
+        
+        self.solve(root.left, level + 1, target_level, ans)
+        self.solve(root.right, level + 1, target_level, ans)
 
     def rightSideView(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
+        max_level = self.level(root)
+        res = []
 
-        result = self.levelOrder(root)
-        ans = []
-        for i in range(len(result)):
-            ans.append(result[i][-1])
-        return ans
-
+        for i in range(max_level):
+            ans = []
+            self.solve(root, 0, i, ans)
+            if ans:             
+                res.append(ans[-1])
         
-
-
-        
+        return res
