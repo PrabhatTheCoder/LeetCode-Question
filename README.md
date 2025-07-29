@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Binary Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -550,4 +555,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
