@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -539,5 +544,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
