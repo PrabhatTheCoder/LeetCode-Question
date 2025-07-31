@@ -17,6 +17,18 @@ class Solution:
 
         return root
 
+    def succ(self, root):
+        if not root:
+            return
+        if not root.right:
+            return
+        root = root.right
+        while root.left:
+            root = root.left
+
+        return root
+
+
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root:
             return None
@@ -37,9 +49,14 @@ class Solution:
             if root.left and root.right:
 
                 # Predeccesor
-                pred = self.pred(root)
-                root.val = pred.val
-                root.left = self.deleteNode(root.left, pred.val)
+                # pred = self.pred(root)
+                # root.val = pred.val
+                # root.left = self.deleteNode(root.left, pred.val)
+
+                # Successor
+                succ = self.succ(root)
+                root.val = succ.val
+                root.right = self.deleteNode(root.right, succ.val)
                 
         elif root.val < key:
             root.right = self.deleteNode(root.right, key)   
