@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0669-trim-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0543-diameter-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
