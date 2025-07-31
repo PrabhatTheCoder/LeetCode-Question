@@ -5,15 +5,6 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def preorder(self, root, ans):
-        if not root:
-            return
-        
-        ans.append(root)
-        self.preorder(root.left, ans)
-        self.preorder(root.right, ans)
-        return ans
-
 
     def flatten(self, root: Optional[TreeNode]) -> None:
         """
@@ -21,14 +12,20 @@ class Solution:
         """
         if not root:
             return
-        ans = self.preorder(root,[])
-        i = 0
-        while i+1 < len(ans):
-            ans[i].left = None
-            ans[i].right = ans[i+1]
-            i += 1
-        ans[i].left = None
-        ans[i].right = None
-        return ans[0]
+
+        l = root.left
+        r = root.right
+        root.left = None
+        root.right = None
+
+        self.flatten(l)
+        self.flatten(r)
+        root.right = l
+
+        temp = root
+        while temp.right != None:
+            temp = temp.right
         
+        temp.right = r
+
         
