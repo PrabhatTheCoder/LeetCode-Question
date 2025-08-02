@@ -6,10 +6,11 @@ class Solution:
                 dic[arr[i]] = 1
             else:
                 dic[arr[i]] += 1
-        dic2 = {}
+
+        seen = set()
         for key in dic:
-            if dic[key] not in dic2:
-                dic2[dic[key]] = 1
-            else:
+            if dic[key] in seen:
                 return False
+            seen.add(dic[key])
+
         return True
