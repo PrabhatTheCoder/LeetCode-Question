@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
