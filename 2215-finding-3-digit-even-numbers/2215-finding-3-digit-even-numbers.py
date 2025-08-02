@@ -1,18 +1,36 @@
 class Solution:
     def findEvenNumbers(self, digits: List[int]) -> List[int]:
-        res = set()
-        for i in range(len(digits)):
-            for j in range(len(digits)):
-                for k in range(len(digits)):
-                    if i==j or j==k or i==k:
-                        continue
-                    if digits[i] == 0:
-                        continue
-                    if digits[k] % 2 == 0:
-                        val = (digits[i] * 100) + (digits[j] * 10) + digits[k]
-                        res.add(val)
+        res = []
+        nums = [0]*10
 
-        res = list(res)
-        res.sort()
+        for idx in digits:
+            nums[idx] += 1
+
+        print(nums)
+        
+        for i in range(1,10):
+            if nums[i] == 0:
+                continue
+            nums[i] -= 1
+
+            for j in range(10):
+                if nums[j] == 0:
+                    continue
+                nums[j] -= 1
+
+                for k in range(0,9,2):
+                    if nums[k] == 0:
+                        continue
+                    nums[k] -= 1
+
+                    val = (i * 100) + (j * 10) + k
+                    res.append(val)
+
+                    nums[k] += 1
+
+                nums[j] += 1
+
+            nums[i] += 1
+
         return res
         
