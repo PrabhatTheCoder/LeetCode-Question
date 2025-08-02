@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Queue
 |  |
