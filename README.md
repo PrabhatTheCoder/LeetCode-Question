@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1072-next-greater-node-in-linked-list) |
 | [1206-corporate-flight-bookings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1206-corporate-flight-bookings) |
+| [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Queue
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1285-balance-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
