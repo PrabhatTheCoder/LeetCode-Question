@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
