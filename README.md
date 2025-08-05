@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1319-unique-number-of-occurrences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0649-dota2-senate) |
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1777-determine-if-two-strings-are-close) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2215-finding-3-digit-even-numbers) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1777-determine-if-two-strings-are-close) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
