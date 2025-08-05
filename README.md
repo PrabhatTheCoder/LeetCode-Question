@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0074-search-a-2d-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0205-isomorphic-strings) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0147-insertion-sort-list) |
