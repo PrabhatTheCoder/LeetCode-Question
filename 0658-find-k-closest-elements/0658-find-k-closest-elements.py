@@ -9,7 +9,6 @@ class Solution:
             if len(max_heap) > k:
                 heapq.heappop(max_heap)
         result = [-val for (_, val) in max_heap]
-        return sorted(result)
-        
-        return 0
+        result.sort()
+        return result
         
