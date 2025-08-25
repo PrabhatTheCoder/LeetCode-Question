@@ -1,24 +1,23 @@
+from typing import List
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
-        
-        # Correct Prefix Product Calculation
-        prefix_product = [1] * n  # Initialize the prefix product array
-        prefix = 1  # Variable to store the running product from the left
-        for i in range(n):
-            prefix_product[i] = prefix  # Store the product of all elements before nums[i]
-            prefix *= nums[i]  # Update the prefix with the current element
-        
-        suffix_product = [1] * n 
-        suffix = 1  # Variable to store the running product from the right
-        for i in range(n - 1, -1, -1):  # Iterate from right to left
-            suffix_product[i] = suffix  
-            suffix *= nums[i] 
 
-        result = []
-        for i in range(n):
-            res = prefix_product[i] * suffix_product[i]  # Multiply the prefix and suffix
-            result.append(res)
+        prefix = [0] * n
+        prefix[0] = nums[0]
+        for i in range(1, n):
+            prefix[i] = prefix[i-1] * nums[i]
 
-        return result
+        suffix = [0] * n
+        suffix[-1] = nums[-1]
+        for i in range(n-2, -1, -1):
+            suffix[i] = suffix[i+1] * nums[i]
+
+        res = [0] * n
+        for i in range(n):
+            left = prefix[i-1] if i > 0 else 1
+            right = suffix[i+1] if i < n-1 else 1
+            res[i] = left * right
+
+        return res
