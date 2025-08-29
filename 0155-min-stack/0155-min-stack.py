@@ -1,37 +1,32 @@
 class MinStack:
 
-    # Time Complexity: O(1) for all operations.
-    # Space Complexity: O(n) because the stack can store up to n elements but we are not using extra stack to store min_element.
-
     def __init__(self):
-        self.min_ele = None
         self.stack = []
+        self.min_stack = []
 
     def push(self, val: int) -> None:
-        if len(self.stack) == 0:
-            self.stack.append(val)
-            self.min_ele = val
-        else:
-            if val >= self.min_ele:
-                self.stack.append(val)
-            elif val <= self.min_ele:
-                self.stack.append(2 * val - self.min_ele)
-                self.min_ele = val
+        self.stack.append(val)
+
+        if not self.min_stack or self.min_stack[-1] >= val:
+            self.min_stack.append(val)
 
     def pop(self) -> None:
-        if not self.stack:
-            return None
-        elif self.stack and self.stack[-1] <= self.min_ele:
-            self.min_ele = (2*self.min_ele) - self.stack[-1]
-            self.stack.pop()
-        else:
-            self.stack.pop()
+        if self.stack:
+            val = self.stack.pop()
+            if val == self.min_stack[-1]:
+                self.min_stack.pop()
+        
 
     def top(self) -> int:
-        if self.stack[-1] <= self.min_ele:
-            return self.min_ele
-        else:
-            return self.stack[-1]
+        return self.stack[-1] if self.stack else None
+        
 
     def getMin(self) -> int:
-        return self.min_ele
+        return self.min_stack[-1] if self.min_stack else None
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(val)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()
