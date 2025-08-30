@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1217-relative-sort-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1217-relative-sort-array) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0682-baseball-game) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
