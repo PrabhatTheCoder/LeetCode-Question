@@ -1,78 +1,47 @@
 class Solution:
 
-    def NearestSmallestToLeft(self, arr: List[int]) -> int:
-        # Initialize pseudo index for elements without a smaller left neighbor
-        pseudo_idx = -1
+    def smaller_to_right(self, nums):
         stack = []
-        ans = []
-        
-        # Iterate through each element in the array
-        for i in range(len(arr)):
+        ans = [len(nums)] * len(nums) 
+        for j in range(len(nums)-1, -1, -1):
+            while stack and stack[-1][0] >= nums[j]:
+                stack.pop()
 
-            # If the stack is empty, no smaller element to the left
-            if not stack:
-                ans.append(pseudo_idx)
+            if stack:
+                ans[j] = stack[-1][1]  
+            else:
+                ans[j] = len(nums)  
 
-            # If the top of the stack is smaller, append its index
-            elif stack and stack[-1][0] < arr[i]:
-                ans.append(stack[-1][1])
-
-            # If the top of the stack is greater or equal, pop until finding a smaller element
-            elif stack and stack[-1][0] >= arr[i]:
-                while stack and stack[-1][0] >= arr[i]:
-                    stack.pop()
-
-                # Append pseudo index if no smaller element is found
-                if not stack:
-                    ans.append(pseudo_idx)
-                else:
-                    ans.append(stack[-1][1])
-            
-            # Push current element and its index onto the stack
-            stack.append((arr[i], i))
+            stack.append((nums[j], j))
 
         return ans
 
-    def NearestSmallestToRight(self, arr: List[int]) -> int:
-        pseudo_idx = len(arr)
+    def smaller_to_left(self, nums):
+        ans = [-1] * len(nums)   
         stack = []
-        ans = []
-        
-        for i in range(len(arr)-1, -1, -1):
 
-            if not stack:
-                ans.append(pseudo_idx)
-
-            elif stack and stack[-1][0] < arr[i]:
-                ans.append(stack[-1][1])
-
-            elif stack and stack[-1][0] >= arr[i]:
-                while stack and stack[-1][0] >= arr[i]:
-                    stack.pop()
-
-                if not stack:
-                    ans.append(pseudo_idx)
-                else:
-                    ans.append(stack[-1][1])
+        for j in range(len(nums)):
+            while stack and stack[-1][0] >= nums[j]:
+                stack.pop()
             
-            stack.append((arr[i], i))
-        ans.reverse()
+            if stack:
+                ans[j] = stack[-1][1]  
+            else:
+                ans[j] = -1            
+
+            stack.append((nums[j], j))
+
         return ans
-
-                
-
+            
     def largestRectangleArea(self, heights: List[int]) -> int:
-        left = self.NearestSmallestToLeft(heights)
-        right = self.NearestSmallestToRight(heights)
+        right = self.smaller_to_right(heights)
+        left = self.smaller_to_left(heights)
 
-        width = []
-        for i in range(len(left)):
-            ans = right[i] - left[i] - 1 
-            width.append(ans)
+        max_area = 0
 
-        area = []
-        for i in range(len(width)):
-            area.append(width[i] * heights[i])
-        
-        return max(area)
-        
+        for i in range(len(heights)):
+            width = right[i] - left[i] - 1  
+            area = heights[i] * width
+            max_area = max(max_area, area)
+
+        return max_area
