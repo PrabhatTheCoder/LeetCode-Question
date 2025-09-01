@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1014-k-closest-points-to-origin) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -385,12 +387,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
