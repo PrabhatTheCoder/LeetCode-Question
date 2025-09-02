@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
@@ -679,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
