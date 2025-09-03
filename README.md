@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
