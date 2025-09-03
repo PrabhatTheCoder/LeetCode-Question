@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0800-letter-case-permutation) |
 | [0891-score-after-flipping-matrix](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0891-score-after-flipping-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
