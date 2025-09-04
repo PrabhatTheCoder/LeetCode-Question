@@ -6,37 +6,33 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        lenA, lenB = 0, 0
+        temp = headA
+        while temp:
+            lenA += 1
+            temp = temp.next
 
-        tempA = headA
-        tempB = headB
+        temp = headB
+        while temp:
+            lenB += 1
+            temp = temp.next
 
-        i = 0
-        while tempA != None:
-            i += 1
-            tempA = tempA.next
-            
-        j = 0
-        while tempB != None:
-            j += 1
-            tempB = tempB.next
+        # Align heads
+        diff = abs(lenA - lenB)
+        temp1, temp2 = headA, headB
 
-        m = abs(j-i)
-        if j>i:
-            while m != 0:
-                headB = headB.next
-                m -= 1
+        if lenA > lenB:
+            for _ in range(diff):
+                temp1 = temp1.next
         else:
-            while m != 0:
-                headA = headA.next
-                m -= 1
+            for _ in range(diff):
+                temp2 = temp2.next
 
-        while headA is not None and headB is not None:
-            if headA == headB:
-                return headA  
-            headA = headA.next
-            headB = headB.next
+        # Move together until intersection
+        while temp1 and temp2:
+            if temp1 == temp2:   # must be same node, not just same value
+                return temp1
+            temp1 = temp1.next
+            temp2 = temp2.next
 
-        return None  
-  
-
-        
+        return None
