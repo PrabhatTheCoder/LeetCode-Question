@@ -3,29 +3,25 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        temp1 = list1
-        temp2 = list2
-        temp3 = ListNode(-1)
-        c = temp3
+        dummy = ListNode(-1)
+        curr = dummy
 
-        while temp1 and temp2:
-            if temp1.val < temp2.val:
-                temp3.next = temp1
-                temp1 = temp1.next
-                temp3 = temp3.next
+        while list1 and list2:
+            if list1.val <= list2.val:
+                curr.next = list1
+                list1 = list1.next
             else:
-                temp3.next = temp2
-                temp2 = temp2.next
-                temp3 = temp3.next
+                curr.next = list2
+                list2 = list2.next
+            curr = curr.next
 
+        # Attach remaining nodes
+        if list1:
+            curr.next = list1
+        else:
+            curr.next = list2
 
-        if temp1 == None:
-            temp3.next = temp2
-        if temp2 == None:
-            temp3.next = temp1
-
-        return c.next
-
-        
+        return dummy.next
