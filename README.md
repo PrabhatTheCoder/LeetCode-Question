@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1014-k-closest-points-to-origin) |
+| [1086-divisor-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1503-reducing-dishes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1503-reducing-dishes) |
@@ -706,4 +708,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
