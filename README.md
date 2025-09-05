@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0496-next-greater-element-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0198-house-robber) |
+| [0413-arithmetic-slices](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/0658-find-k-closest-elements) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
