@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
