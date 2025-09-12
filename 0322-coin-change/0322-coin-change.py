@@ -1,14 +1,22 @@
 class Solution:
+    def solve(self, amount, memo):
+        if amount == 0:
+            return 0
+        if amount < 0:
+            return float('inf')
+
+        if memo[amount] != -1:
+            return memo[amount]
+
+        res = float('inf')
+        for coin in self.coins:
+            res = min(res, self.solve(amount - coin, memo))
+
+        memo[amount] = 1 + res
+        return memo[amount]
+
     def coinChange(self, coins, amount):
-        arraySize = len(coins)
-        dp = [[0 if j == 0 else float('inf') for j in range(amount + 1)] for i in range(arraySize + 1)]
-
-        for i in range(1, arraySize + 1):
-            for j in range(1, amount + 1):
-                if coins[i - 1] > j:
-                    dp[i][j] = dp[i - 1][j]
-                else:
-                    dp[i][j] = min(dp[i - 1][j], 1 + dp[i][j - coins[i - 1]])
-
-        res = dp[arraySize][amount]
-        return -1 if res == float('inf') else res
+        self.coins = coins
+        memo = [-1] * (amount + 1)   # array for memoization
+        ans = self.solve(amount, memo)
+        return -1 if ans == float('inf') else ans
