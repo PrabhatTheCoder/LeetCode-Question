@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/PrabhatTheCoder/LeetCode-Question/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
