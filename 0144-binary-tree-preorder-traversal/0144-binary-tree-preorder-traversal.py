@@ -5,31 +5,25 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
+
+    def solve(self, root, ans):
+        if root is None:
+            return []
+
+        ans.append(root.val)
+
+        self.solve(root.left, ans)
+        self.solve(root.right, ans)
+
+        return ans
+        
+
     def preorderTraversal(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-
-        if not root:
-            return []
-
-        res = []
-
-        stack = []
-        stack.append(root)
-        while stack:
-            temp = stack.pop()
-            res.append(temp.val)
-
-            if temp.right:
-                stack.append(temp.right)
-            if temp.left:
-                stack.append(temp.left)
-
-        return res
-
-
-
-
+        
+        ans = []
+        return self.solve(root, ans)
         
