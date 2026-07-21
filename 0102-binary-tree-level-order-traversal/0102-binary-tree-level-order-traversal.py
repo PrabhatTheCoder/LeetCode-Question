@@ -4,37 +4,38 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution(object):
 
-    def level(self, root):
-        if not root:
+    def solve(self, root, i, j, ans):
+        if root is None:
+            return
+
+        if i == j:
+            ans.append(root.val)
+            return
+
+        self.solve(root.left, i, j+1, ans)
+        self.solve(root.right, i, j+1, ans)
+
+        return
+
+    def depth(self, root):
+        if root is None:
             return 0
-        left = self.level(root.left)
-        right = self.level(root.right)
-        return 1 + max(left, right)
 
-    def solve(self, root, i, target):
-        if not root:
-            return []
-        if i == target:
-            return [root.val]
-
-        left = self.solve(root.left, i+1, target)
-        right = self.solve(root.right, i+1, target)
-
-        return left + right
+        return 1 + max(self.depth(root.left), self.depth(root.right))
 
     def levelOrder(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: List[List[int]]
         """
-        ans = []
-        height = self.level(root)
 
-        for i in range(height):
-            val = self.solve(root, 0, i)
-            ans.append(val)
+        depth = self.depth(root)
+        res = []
+        for i in range(depth):
+            ans = []
+            self.solve(root, i, 0, ans)
+            res.append(ans)
 
-        return ans
+        return res
