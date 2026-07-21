@@ -4,36 +4,42 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution(object):
 
     def level(self, root):
-        if not root:
+        if root is None:
             return 0
+
         return 1 + max(self.level(root.left), self.level(root.right))
 
-    def solve(self, root, level, target_level, ans):
-        if not root:
+    def solve(self, root, ans, level, curr):
+        if root is None:
             return
-        if level == target_level:
+        
+        if level == curr:
             ans.append(root.val)
             return
         
-        self.solve(root.left, level + 1, target_level, ans)
-        self.solve(root.right, level + 1, target_level, ans)
+        self.solve(root.left, ans, level, curr + 1)
+        self.solve(root.right, ans, level, curr + 1)
+
 
     def rightSideView(self, root):
         """
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        max_level = self.level(root)
+
+        level = self.level(root)
         res = []
 
-        for i in range(max_level):
+        for i in range(level):
             ans = []
-            self.solve(root, 0, i, ans)
-            if ans:             
+            self.solve(root, ans, i, 0)
+            if ans:
                 res.append(ans[-1])
-        
+
         return res
+
+
+        
